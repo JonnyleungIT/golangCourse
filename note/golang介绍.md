@@ -25,3 +25,12 @@ Go官网：golang.org
 2.编程IDE：LiteIDE / Golang
 
 3.配置环境
+	+ GOPATH
+	```
+	go工作目录
+	```
+	+ GOROOT
+	```
+	go sdk安装目录
+	```
+
