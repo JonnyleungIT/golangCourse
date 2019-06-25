@@ -18,7 +18,7 @@
 	+ [6.流程控制.md](https://github.com/JonnyleungIT/golangCourse/blob/master/note/6.流程控制.md)
 
 + code
-	+ [第一个go程序] helloworld.go
+	+ [第一个go程序 - helloworld](https://github.com/JonnyleungIT/golangCourse/blob/master/code/helloworld.go)
 
 	+ [1.Golang注释.go](https://github.com/JonnyleungIT/golangCourse/blob/master/code/1.Golang%E6%B3%A8%E9%87%8A.go)
 
