@@ -18,6 +18,6 @@ func main() {
 	var r float64
 	fmt.Scan(&r)
 	PI := 3.14159
-	fmt.Printf("圆的周长为:%.2f\n", 2*PI*r)
-	fmt.Printf("圆的面积为:%.2f\n", PI*r*r)
+	fmt.Printf("%.2f\n", 2*PI*r)
+	fmt.Printf("%.2f\n", PI*r*r)
 }

@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // 主函数功能：打印输出helloworld
-func main(){
+func main() {
 	fmt.Println("helloworld")
 }
 
